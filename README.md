@@ -1,30 +1,44 @@
 自己紹介
 --
-PCを触り始めたのは小学2年生の頃(初めて触ったOSはUbuntu 12.04(家にあったパソコンの中で唯一まともに使えるパソコンだった))、中学2年生の頃からプログラミングを初め、趣味でプログラミングをしています。
-プログラミングと音ゲーが好きです。
+大学生(B1)です。
+
+PCを触り始めたのは小学2年生の頃。
+初めて触ったOSはUbuntu 12.04。
+
+中学2年生の頃からプログラミングを始め、趣味でプログラミングをしています。
+
 [seichi.click.network](https://github.com/GiganticMinecraft)で主に活動しています。
 
 スキル
 --
-- Scala
-  - メインで使っている言語です。
-  - [cats effect](https://typelevel.org/cats-effect/)などを使いながら、関数型プログラミングをなんとなく理解しつつ触っています。
-- SQL
-  - MySQL(MariaDB)などを用いて開発をしています。
-- ドメイン駆動設計 / Clean Architecture
-  - 主な開発手法として利用しています。
-  - 2022年2月頃から使い始め、今では少しつづ理解して利用してます。
-- Linux(Ubuntu) / Git / GithubActions
-  - 基本的なことは調べながら大体できるレベル。
-- Java / C#
-  - 昔触っていたので頑張ればそこそこ書けるレベル。
-- Go
-  - 勉強中
+- 普段からよく使っている言語・ツールなど
+  - Scala
+    - 2021年8月~
+  - Rust
+    - 2022年11月 ~ 
+  - Git
+  - GitHubActions
+  - SQL(MariaDB, MySQL)
+  - Linux(Ubuntu)
+  - ドメイン駆動設計 / Clean Architecture
+    - 2022年2月 ~ 
+  - Docker
+- あまり使っていないけど稀に触る、または少しは学習した言語
+  - Java
+    - 2019年3月 ~ 2021年7月
+  - Go 
+    - 少し学習したのみ
+  - C#
+    - ちょっとしたWindowsソフト開発に用いた
+    - 2022年4月 ~ 2022年9月
   
 主な活動リポジトリ
 --
-- [SeichiAssist](https://github.com/GiganticMinecraft/SeichiAssist)
-  - 2022年2月頃から開発しています。
+- Scala
+  - [SeichiAssist](https://github.com/GiganticMinecraft/SeichiAssist)
+ 
+- Rust
+  - [seichi-portal-backend](https://github.com/GiganticMinecraft/seichi-portal-backend) 
 
 リンク
 --

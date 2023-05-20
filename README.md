@@ -9,6 +9,12 @@ PCを触り始めたのは小学2年生の頃。
 
 [seichi.click.network](https://github.com/GiganticMinecraft)で主に活動しています。
 
+趣味
+--
+- プログラミング
+- VTuberの配信を見ること
+- 音楽ゲーム
+
 スキル
 --
 - 普段からよく使っている言語・ツールなど

@@ -1,6 +1,6 @@
 自己紹介
 --
-現在大学生(B1)で、趣味でプログラミングをしています。
+現在大学生(B2)で、趣味でプログラミングをしています。
 ScalaとRustが好きです。
 
 [seichi.click.network](https://github.com/GiganticMinecraft)で主に活動しています。

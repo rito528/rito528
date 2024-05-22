@@ -9,12 +9,12 @@ ScalaとRustが好きです。
 --
 - 普段からよく使っている言語・ツールなど
   - Scala
-  - Rust 
+  - Rust
+  - TypeScript
   - Git
-  - GitHubActions
+  - GitHub Actions
   - SQL(MariaDB, MySQL)
   - Linux(Ubuntu)
-  - ドメイン駆動設計 / Clean Architecture
   - Docker
   
 主な活動リポジトリ

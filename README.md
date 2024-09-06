@@ -17,15 +17,6 @@ ScalaとRustが好きです。
   - Linux(Ubuntu)
   - Docker
   
-主な活動リポジトリ
---
-- Scala
-  - [SeichiAssist](https://github.com/GiganticMinecraft/SeichiAssist)
- 
-- Rust
-  - [seichi-portal-backend](https://github.com/GiganticMinecraft/seichi-portal-backend)
-  - [gachadata-server](https://github.com/GiganticMinecraft/gachadata-server)
-
 リンク
 --
 - [Twitter](https://twitter.com/rito_528)

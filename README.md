@@ -7,16 +7,15 @@ ScalaとRustが好きです。
 
 スキル
 --
-- 普段からよく使っている言語・ツールなど
-  - Scala
-  - Rust
-  - TypeScript
-  - Git
-  - GitHub Actions
-  - SQL(MariaDB, MySQL)
-  - Linux(Ubuntu)
-  - Docker
-  
+- Scala
+- Rust
+- TypeScript(Next.js)
+- TypeSpec
+- Git
+- GitHub Actions
+- SQL(MariaDB, MySQL)
+- Docker
+
 リンク
 --
 - [Twitter](https://twitter.com/rito_528)

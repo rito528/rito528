@@ -33,6 +33,7 @@ Scala と Rust が好きです。
 #### CI/CD
 
 - GitHub Actions
+- Argo CD
 - Argo Workflows
 
 ## リンク

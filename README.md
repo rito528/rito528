@@ -1,40 +1,37 @@
 # 自己紹介
 
-現在大学生(B3)で、大学で情報系の学習をしつつ、趣味でプログラミングをしています。
+現在大学生(B4)で、大学で情報系の学習をしつつ、趣味でプログラミングをしています。
 Scala と Rust が好きです。
 
-バックエンド開発と設計周りの話に興味があります。
-
-[seichi.click.network](https://github.com/GiganticMinecraft) で主に活動しています。
+バックエンド開発・設計に興味があり、実装者の注意力に頼りすぎず、安全で保守しやすいシステムを考えるのが好きです。
 
 ## スキル
 
 ### 言語
 
-- Scala (主に2)
+- Scala
 - Rust
-- TypeScript (Next.js)
+- TypeScript 
 
 ### データベース
 
 - MariaDB
 - MySQL
 
-### 設計 / スキーマ定義
-
-- TypeSpec
-- OpenAPI
-
 ### インフラ
 
 - Docker
-- Kubernetes ([seichi_infra](https://github.com/GiganticMinecraft/seichi_infra) で少し触っている程度)
+- Kubernetes
 
 #### CI/CD
 
 - GitHub Actions
 - Argo CD
 - Argo Workflows
+
+### 開発環境
+
+- Nix
 
 ## リンク
 
